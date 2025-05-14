@@ -25,7 +25,7 @@
     },
     "AUTO_REPLY_STATUS": {
       "description": "Enter yes for your bot to notify people that you have viewed there status",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "REPLY_STATUS_TEXT": {
@@ -75,7 +75,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "233202429182",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
@@ -100,7 +100,7 @@
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA5VUyZKjOBT8F11NtQFjFkdUxAA23jHGC2Um+iBAYJnVQhhMhf99glqi+jDdU8NJIYl8qcx87xVkOS7REt3B6BUUBN8gRd2S3gsERkCrwhARwIAAUghGQJiHPi4LqSFHIlYrlVQCPeqzgZafydy7henpAMm+f0hnk2fwYEBReQn2/wAoXsdWmjuIz4RlpPaTVXO7XYalQGwna48X2BfYnIjOumnjZ/DoECEmOIsmxRmliMBkie4WxOR79KMN7JGTql8XpT1Dk+FNDc3h+bpvPKu9XpVIr8UAn2HscNH36CcbZLT+mvDb5soKphvKk7pvmUacT/v5NudNh51mdljps/qdfomjDAXzAGUU0/u3dffVqBVQ6IhG3lMXhz5UQvdk7EXpKMqepr/cwpmzvrB2Oi2/R1zZj3cXyu6cG6+OF4i6zW3aX2PDJ1FcOZtosNnlg7jcGRf/V+IW+cxK/H90L616QwqzKmI30JZL3bDX41aT0rYZ3IaqUJyslWcP+S2bxt+jnyae0q7kl7ZZn4NpczuGh/01NfXspEuXAxkTb0r52dXiz+wXfUgr8ieWFE37CuW9YHEULQp3vLuMxPa0EoO96dtCU0/uMhfuStMUZC6q8Tpa8IsgCK+CW67NF8NI5Pzoac49TqWXFYlp5FG1fn57UYzu8wCMuAcDCIpwSQmkOM+6PUVhAAxuO+QTRN/UBdZ+Q46Nxu2u57C3c+EwDSVRCCdZsGEzmPeN3txf87ejPI6fAQMKkvuoLFEwwyXNyX2NyhJGqASjv38yIEMNffetqzbgGBBiUtJDVhVJDoNPUz8Poe/nVUZ398zXuwUiYMR+bSNKcRaVnYxVBol/xjeknyEtwSiESYkeDAjQDfuowwPL8aaop7lke1XlKv6aHn3zWneUz3n2fmXI+TzypOETywnikzAIxCcZIvlJDnyBZVkFccEQMAB/tEz3z28dbK9b+UXCJMOu7zq2pZZzDbqcdFG2by68S48ICsCIkgoxwIN+XBX7PEbZH3Dhdutxck+yi5W5vooFtExjzSm2g0+/4L5bCkavX2NKz4MOb6k5E3csGoAB6VsCcfdyfjDgWV7gFU7mR8Lgr/JH3QkJi+JHhihgQAa728CeTOem2tX5MKFDCBCFOCnBCOjWXr6E9WJiimpcTqZTdRKpeqSCL9M+w/+ertSYon3QDGXV4S6pQLlBq8+QI14Oga8kmTmZ6Ju02Kkcd3j+F5BOn80FSWJl2I0Yso1snM/Sydwrh7ts5NnB6/fdWsC927mqipSfzeDh1Jfn6TTmE20f6TZ/CcS9wmuNvGjFk5ZE98tA17pO+QzPr8VeNvVM3vZaNDdLzjaPrnWhdaaku+wwXlqGX0qqexpyGCo2XsVrMj3Ig+0yqaE4cw6CSltu11vuA0UTYXnKnVOSpOE4em/Lt7GQfIxj/NYxrx9RCzF6m24fJvynWV+pZx/MLxgf8/I3ydLcs53FAx+FqkFPw2oVBHJ9HiRVzs1eLNdtbU29FNdDZAZH8Hj8ZECRQBrmJO3GauphwIAEllT96to9TlFJYVqAEScJEs/z4mDIgPSuFsWOQvrZ7EDtvplxAo9/APjXaYoHCAAA",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
@@ -110,7 +110,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "2",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
@@ -120,7 +120,7 @@
     },
    "ANTIDELETE_RECOVER_CONVENTION": {
       "description": "Enable anti-delete deleted to recover in conversation (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },	  
     "GROUPANTILINK": {
