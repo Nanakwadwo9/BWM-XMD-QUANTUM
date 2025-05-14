@@ -25,7 +25,7 @@
     },
     "AUTO_REPLY_STATUS": {
       "description": "Enter yes for your bot to notify people that you have viewed there status",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "REPLY_STATUS_TEXT": {
@@ -60,7 +60,7 @@
     },
     "PUBLIC_MODE": {
       "description": "Type yes for public mode or no for private mode",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -75,7 +75,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "233202429182",
+      "value": "233‪598628142‬"
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
@@ -100,7 +100,7 @@
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "BWM-XMD;;;H4sIAAAAAAAAA5VUyZKjOBT8F11NtQFjFkdUxAA23jHGC2Um+iBAYJnVQhhMhf99glqi+jDdU8NJIYl8qcx87xVkOS7REt3B6BUUBN8gRd2S3gsERkCrwhARwIAAUghGQJiHPi4LqSFHIlYrlVQCPeqzgZafydy7henpAMm+f0hnk2fwYEBReQn2/wAoXsdWmjuIz4RlpPaTVXO7XYalQGwna48X2BfYnIjOumnjZ/DoECEmOIsmxRmliMBkie4WxOR79KMN7JGTql8XpT1Dk+FNDc3h+bpvPKu9XpVIr8UAn2HscNH36CcbZLT+mvDb5soKphvKk7pvmUacT/v5NudNh51mdljps/qdfomjDAXzAGUU0/u3dffVqBVQ6IhG3lMXhz5UQvdk7EXpKMqepr/cwpmzvrB2Oi2/R1zZj3cXyu6cG6+OF4i6zW3aX2PDJ1FcOZtosNnlg7jcGRf/V+IW+cxK/H90L616QwqzKmI30JZL3bDX41aT0rYZ3IaqUJyslWcP+S2bxt+jnyae0q7kl7ZZn4NpczuGh/01NfXspEuXAxkTb0r52dXiz+wXfUgr8ieWFE37CuW9YHEULQp3vLuMxPa0EoO96dtCU0/uMhfuStMUZC6q8Tpa8IsgCK+CW67NF8NI5Pzoac49TqWXFYlp5FG1fn57UYzu8wCMuAcDCIpwSQmkOM+6PUVhAAxuO+QTRN/UBdZ+Q46Nxu2u57C3c+EwDSVRCCdZsGEzmPeN3txf87ejPI6fAQMKkvuoLFEwwyXNyX2NyhJGqASjv38yIEMNffetqzbgGBBiUtJDVhVJDoNPUz8Poe/nVUZ398zXuwUiYMR+bSNKcRaVnYxVBol/xjeknyEtwSiESYkeDAjQDfuowwPL8aaop7lke1XlKv6aHn3zWneUz3n2fmXI+TzypOETywnikzAIxCcZIvlJDnyBZVkFccEQMAB/tEz3z28dbK9b+UXCJMOu7zq2pZZzDbqcdFG2by68S48ICsCIkgoxwIN+XBX7PEbZH3Dhdutxck+yi5W5vooFtExjzSm2g0+/4L5bCkavX2NKz4MOb6k5E3csGoAB6VsCcfdyfjDgWV7gFU7mR8Lgr/JH3QkJi+JHhihgQAa728CeTOem2tX5MKFDCBCFOCnBCOjWXr6E9WJiimpcTqZTdRKpeqSCL9M+w/+ertSYon3QDGXV4S6pQLlBq8+QI14Oga8kmTmZ6Ju02Kkcd3j+F5BOn80FSWJl2I0Yso1snM/Sydwrh7ts5NnB6/fdWsC927mqipSfzeDh1Jfn6TTmE20f6TZ/CcS9wmuNvGjFk5ZE98tA17pO+QzPr8VeNvVM3vZaNDdLzjaPrnWhdaaku+wwXlqGX0qqexpyGCo2XsVrMj3Ig+0yqaE4cw6CSltu11vuA0UTYXnKnVOSpOE4em/Lt7GQfIxj/NYxrx9RCzF6m24fJvynWV+pZx/MLxgf8/I3ydLcs53FAx+FqkFPw2oVBHJ9HiRVzs1eLNdtbU29FNdDZAZH8Hj8ZECRQBrmJO3GauphwIAEllT96to9TlFJYVqAEScJEs/z4mDIgPSuFsWOQvrZ7EDtvplxAo9/APjXaYoHCAAA",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA61VbY+yOBT9L/06zsqrgMkkC6iIgKLi62Y/VChYQcqUosIT//uGcSYzybP77GyyfGpKe8/pveee+wPkBJfIQTXo/wAFxRfIULtkdYFAHxhVHCMKOiCCDII+uJraduHjWhTMk72j8dQ7DyreiBIdLZpwFrlyE9PxZRYOvRdw74CiOmQ4/EXAxpo1WqPXzmBrsrWh33xlJhRP0nSvLU7KiY9s4uqNHwQB9wLubUSIKc6TYXFEZ0Rh5qDah5h+j37P275um+BwVBCxELqwaf3KW6Y2S8Y5z7HqepmpS3xyEnH4Pfoe5550IyG9bHSyXWK8Ku5gt5KDk60nw659tbYb2ZS4xaaZP+iXOMlRZEcoZ5jV3877ZuDepuipy2/mhoCCJlqxI3VmvSwr1WZg4yqfS5EsFhIffo945DwJWbDcuMFVLDddVbLW8ZimlTvaU0VceC7vEDgguMm9r8R9+qGV9L/k3XRJ2py4hbG+5beutZ+jaDbwd1Ewwq6rX7hcI11FifSKm3+P/mQ12bsrZ3lx1TLOiVTjV7Q98tluF/VeA684bBvN3pNdkSSf9CGr6K9YJmU3jIlfcJsUGn7Nprybi2a6E47j7piktqWMqa8MVCTDSRVu1wY9ueLZn+Pk6otZT1rrK5cYyDqpu+aC9eU6VUtz/vL2ohTVdgT6/L0DKEpwyShkmOTtniR2AIwuSxRSxN6yCzj3enjNBLr3T4qV1SS4crVywGRvpsk2CWmJkCqdeHuTeC+gAwpKQlSWKBrjkhFae6gsYYJK0P/jrVDtmyk6E4YmOAJ9IIiirKk9QeUl4ffyt+sRshIWxW85YqADYkrOHgJ9RivUAW8XRJ3XZVGWeInjeN7ke6I+al91fgAF+IxKBs8F6POKpAiC0pOke+f/wtZ7JqeJhsiNdIETFX2o/Au2+v9hjxTN0DVVGQrasDfkdd74NbbM3f/sgBzd2KNV2gKLfAfEmJZslVdFRmD00UcfP2EYkipnyzoPzXaBKOh/2UaM4Twp29dUOaThEV+Q2XIH/RhmJbp3QIQuOERtPKCMpr45rAfz4jWUE/a8skI/SFqVHEn+OCIdDqHEI+2Zj3rSs8TH2vNBlaJnGWowjBVBliUE2hQ8XKq988/OpCUpp557l30yk9MbnpL6GlnTCfbTN+E/1I4oij4ye4BhWhUBSVH+i7iVY15Cp5okvl4mWokCkS1Utcevst2XuI8uAv0fn5PBJFEbr+eoQ5GfGKCtVovzkwL64s8ayGF7GExIeWxB3ivQXo8QgzgrWzNzrGXpJZPhDOdpObQs3U50M9HBZ8U+zObRzStijj2j2RoTS9qtNlJx8nbJ0+Uq8efKOa0XHnO7kaYUSiK9/E0Q0AfbSqaiEPEX3bndjMO+ovy2OzN2tatPncUqH4wgPY/Herhh+fapweveYLC9BgtCYvtQQT5adUNPbmSpnF5Tq8uI4m+T5KVFeyjnK5gaW13+liSwsoTVMj8cQw8HN3smsbp7onSp29kB3jRXzhbzjXKkgrYdHe3ZUjtB19Y0YwBXviMe04NkFNdJIaQb52mgP2zwzYaz9/GH3x3qobMYo7dp8l6Cf6vUp+K5e+dLiPfx9A+qMtaOfmz0kL8uF5U1GlXOrrFsn6qz6Z5iwq8Cd9kVY9RD0gzc21YuMshiQs+gD/BbB4EOyGDJ9M+e/RsbENUOONd6USwZZB+tDvT282gP3P8CPNzZ2HgJAAA=",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
